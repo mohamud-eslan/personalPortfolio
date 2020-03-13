@@ -1,0 +1,13 @@
+ul{
+    padding: 0;
+    margin: auto;
+    display: table;
+}
+
+li{
+    float: left;
+    padding: 10px;
+    display: block;
+    font-size: 20px;
+}
+    
