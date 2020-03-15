@@ -2,31 +2,15 @@
     background-color: white;
 
 }
-
-ul{
-    float: right ;
-    padding: 0;
-    margin-top: 1%;
-    display: table;
-    
-}
-
-li{
-    
-    float: left;
-    padding: 10px;
-    display: block;
-    font-size: 20px;
-    
+ul li {
+    display: inline-block;
+    margin: 10px;
 }
 .image{
     background-image: url(portf.png);
      background-repeat: no-repeat; 
      background-size: cover;
-     height: ;
+     /* height: ; */
 }
-.logo
-{
-    margin-left: 300px;
-}
+
     
